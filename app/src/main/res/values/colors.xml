@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="gruv_bg">#282828</color>
+    <color name="gruv_surface">#3C3836</color>
+    <color name="gruv_primary">#D79921</color>
+    <color name="gruv_secondary">#B16286</color>
+    <color name="gruv_green">#98971A</color>
+    <color name="gruv_red">#CC241D</color>
+    <color name="gruv_text">#EBDBB2</color>
+</resources>
