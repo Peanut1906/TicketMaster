@@ -1,0 +1,22 @@
+<resources>
+
+    <style name="Theme.TicketMaster" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <item name="colorPrimary">#458588</item>
+        <item name="colorPrimaryVariant">#3C3836</item>
+        <item name="colorOnPrimary">#EBDBB2</item>
+
+        <item name="colorSecondary">#B16286</item>
+        <item name="colorOnSecondary">#EBDBB2</item>
+
+        <item name="android:colorBackground">#282828</item>
+        <item name="colorSurface">#3C3836</item>
+        <item name="colorOnSurface">#EBDBB2</item>
+
+        <item name="android:textColor">#EBDBB2</item>
+        <item name="android:textColorPrimary">#EBDBB2</item>
+        <item name="android:textColorSecondary">#A89984</item>
+
+    </style>
+
+</resources>
